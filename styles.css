@@ -1,0 +1,12 @@
+body {
+  color: red;
+  background-color: lightblue;
+  font: 1200;
+  font-family: fantasy;
+}
+.black-border {
+  border: 5px solid black;
+}
+#green-background {
+  background-color: green;
+}
